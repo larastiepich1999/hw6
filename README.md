@@ -4,4 +4,4 @@
 ![](https://github.com/larastiepich1999/hw6/blob/master/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.png)
 
 2. Слово, одновременно относящееся к 2 или более различным частям речи
-![]()
+![](https://github.com/larastiepich1999/hw6/blob/master/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.png)
