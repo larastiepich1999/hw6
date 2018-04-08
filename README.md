@@ -17,7 +17,7 @@
 # Часть 2
 
 1. Модификаторы существительного question.
-![]()
+![](https://github.com/larastiepich1999/hw6/blob/master/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201(2).png)
 
 2. Cинонимичные глаголы
 ![]()
